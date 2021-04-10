@@ -28,3 +28,11 @@ To run the application:
 ```shell
 ./gradlew bootRun
 ```
+
+## Testing the endpoint
+
+You can use `curl` to test the endpoint. For example, to hit the webflux endpoint:
+
+```shell
+curl -X GET --location "http://localhost:8080/contact" -H "Accept: application/json"
+```
