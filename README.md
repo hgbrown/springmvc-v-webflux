@@ -3,6 +3,9 @@
 Implements the same functionality using Spring MVC and Spring Webflux.
 Please see the respective branches for the functionality.
 
+- [Blog](https://hbrown.dev/kotlin/2021/04/10/springmvc-v-webflux.html)
+- [Video](https://youtu.be/6N1pnYun2AE)
+
 This demo depends on:
 
 - Gradle (v 6.8.3)
